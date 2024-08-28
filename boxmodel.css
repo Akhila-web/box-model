@@ -1,0 +1,117 @@
+header{
+    background-color: brown;
+    width: 90%;
+    height: 10px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: medium;
+    text-decoration: underline;
+    border: 2px,solid black;
+     margin:0% ;
+     right: 15px;
+     left: 15px;
+}
+.espresso{
+    background-color: white;
+    position:absolute;
+    width: 25%;
+    left:10%;
+    padding: 20px;
+    border: 2px solid gainsboro;
+    margin:30px 30px ;
+    text-align: center;
+    box-sizing:border-box;
+    top: 15%;
+    
+}
+.latte{
+    background-color: white;
+    position: absolute;
+    right:35%;
+    width: 25%;
+
+    padding: 20px;
+    margin: 30px 30px;
+    border: 2px solid gainsboro;
+    text-align: center;
+    box-sizing: border-box;
+    top: 15%;
+}
+.cappuccino{
+    background-color: white;
+    position: absolute;
+    right:10%;
+    width:21%;
+    padding: 20px;
+    margin: 30px 30px;
+    border: 2px solid gainsboro;
+    text-align: center;
+    box-sizing: 20px;
+    top: 15%;
+    
+}
+.image1{
+    background-color: white;
+    position: absolute;
+    padding:20px;
+    width: 25%;
+    margin: 30px 30px;
+    border:2px solid gainsboro ;
+    text-align: center;
+    box-sizing: border-box;
+    top:560px;
+    left:10%;
+    right:50%;
+
+
+}
+.image2{
+    background-color: white;
+    position: relative;
+    padding: 20px;
+    width: 25%;
+    right: 50%;
+    margin: 30px 30px;
+    border: 2px solid gainsboro;
+    text-align: center;
+    box-sizing: border-box;
+    top: 385px;
+    left:36%;
+    
+    
+    
+    
+
+
+}
+.image3{
+    background-color: white;
+    position: absolute;
+    padding: 20px;
+    width: 21%;
+    margin: 30px 30px;
+    border: 2px solid gainsboro;
+    text-align: center;
+    left: 62%;
+    top: 560px;
+    right: 10%;
+}
+.footer{
+    background-color: coral;
+    width: 90%;
+    height: 20px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: medium;
+    text-decoration: underline;
+    border: 2px,solid black;
+    position: absolute;
+     margin:50px 2px 2px 2px ;
+     right: 15px;
+     left: 15px;
+     top: 1000px;
+     
+
+}
